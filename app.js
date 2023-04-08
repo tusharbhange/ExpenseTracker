@@ -1,0 +1,1 @@
+console.log('Added app.js file through VS');
